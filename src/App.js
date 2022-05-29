@@ -1,9 +1,13 @@
 import './App.css';
+import React from 'react';
+import Header from './components/Header';
+import Footer from './components/Footer'; 
 
 function App() {
   return (
     <div className="react-portfolio">
-      {/* component(s) that App will call on will go in here */}
+      <Header />
+      <Footer />
     </div>
   );
 }
