@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
+import Header from './Header';
 import About from './pages/About';
 import Contact from './pages/Contact';
-import Portfolio from './pages/Portfolio';
+import Portfolio from './pages/Projects';
 import Resume from './pages/Resume';
-import Header from './Header';
 
-export default function navigationPages() {
+export default function Navigation() {
     const [currentPage, setCurrentPage] = useState('About');
 
     const renderPage = () => {
