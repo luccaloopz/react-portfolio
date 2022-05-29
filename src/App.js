@@ -6,7 +6,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="react-portfolio">
-      <Header />
+      <Header /> {/*or is it <Navigation /> ? */}
       <Footer />
     </div>
   );
