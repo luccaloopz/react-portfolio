@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Header from './Header';
 import About from './pages/About';
 import Contact from './pages/Contact';
-import Portfolio from './pages/Projects';
+import Portfolio from './pages/Portfolio';
 import Resume from './pages/Resume';
 
 export default function Navigation() {

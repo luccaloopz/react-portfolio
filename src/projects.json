@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "title": "LAAW Investment Tracker",
+        "text": "Stock data and news at your fingertips",
+        "image": "https://github.com/luccaloopz/laaw-investment-tracker/raw/main/assets/2022-04-15%2021.00.20.gif",
+        "githubLink": "https://github.com/luccaloopz/laaw-investment-tracker",
+        "deployedLink": "https://atmason90.github.io/laaw-investment-tracker/"
+    },
+    {
+        "id": "2",
+        "title": "Tech Blog",
+        "text": "A tech blog site allowing users to publish posts for all viewers to see",
+        "image": "https://github.com/luccaloopz/tech-blog/raw/main/assets/home-page.PNG",
+        "githubLink": "https://github.com/luccaloopz/tech-blog",
+        "deployedLink": "https://radiant-island-73919.herokuapp.com/"
+    },
+    {
+        "id": "3",
+        "title": "Weather Dashboard",
+        "text": "Retrieve weather data for any city",
+        "image": "https://github.com/luccaloopz/weather-dashboard/raw/main/assets/IMAGES/search-history.PNG",
+        "githubLink": "https://github.com/luccaloopz/weather-dashboard",
+        "deployedLink": "https://luccaloopz.github.io/weather-dashboard/"
+    },
+    {
+        "id": "4",
+        "title": "Code Quiz",
+        "text": "Test your coding skills on this timed quiz!",
+        "image": "https://github.com/luccaloopz/Code-Quiz/raw/main/assets/IMAGES/application.PNG",
+        "githubLink": "https://github.com/luccaloopz/Code-Quiz",
+        "deployedLink": "https://luccaloopz.github.io/Code-Quiz/"
+    },
+    {
+        "id": "5",
+        "title": "Note Taker",
+        "text": "A digital and intuitive note-taking application",
+        "image": "https://github.com/luccaloopz/note-taker/raw/main/Assets/notes-page.PNG",
+        "githubLink": "https://github.com/luccaloopz/note-taker",
+        "deployedLink": "https://floating-ridge-18223.herokuapp.com/"
+    },
+    {
+        "id": "6",
+        "title": "Work Day Scheduler",
+        "text": "A daily planner to write down your to-do's throughout the day",
+        "image": "https://github.com/luccaloopz/Work-Day-Scheduler/raw/main/assets/Images/application.PNG",
+        "githubLink": "https://github.com/luccaloopz/Work-Day-Scheduler",
+        "deployedLink": "https://luccaloopz.github.io/Work-Day-Scheduler/"
+    }
+]
