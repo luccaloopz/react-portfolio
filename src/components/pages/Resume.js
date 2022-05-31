@@ -2,9 +2,9 @@ import React from "react";
 
 export default function Resume() {
     return (
-        <div style={{ display: "flex", paddingLeft: 60, paddingTop: 30, paddingRight: 60, flexDirection: 'column' }}>
+        <div style={{ display: "flex", paddingLeft: 60, paddingTop: 30, flexDirection: 'column' }}>
             <h1>Resume</h1>
-            <a href={process.env.PUBLIC_URL + '/lucca-resume.pdf'} style={{paddingTop: 30, textDecoration: 'none', color: 'black'}} target={'_blank'}>Click here to view my Resume</a>
+            <p style={{paddingTop: 30}}><a href={process.env.PUBLIC_URL + '/lucca-resume.pdf'} target={'_blank'} style={{textDecoration: 'none', color: 'black'}}>Click here to view my Resume</a></p>
             <div style={{fontSize: 'larger', textAlign: 'justify', paddingTop: 30}}>
                 <h4>Front-End Proficiencies</h4>
                 <ul>
