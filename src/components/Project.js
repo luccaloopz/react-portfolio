@@ -3,8 +3,8 @@ import { Card } from 'react-bootstrap';
 
 export default function Project(props) {
     return (
-        <Card>
-            <Card.Img variant="top" src={props.image}/>
+        <Card style={{height: '100%'}}>
+            <Card.Img variant="top" src={props.image} style={{width: '100%', height: '25vw', objectFit: 'cover'}}/>
             <Card.Body>
                 <Card.Title>{props.title}</Card.Title>
                 <Card.Text>
