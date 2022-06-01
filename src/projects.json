@@ -19,7 +19,7 @@
         "id": "3",
         "title": "Weather Dashboard",
         "text": "Retrieve weather data for any city",
-        "image": "https://github.com/luccaloopz/weather-dashboard/raw/main/assets/IMAGES/search-history.PNG",
+        "image": "https://github.com/luccaloopz/weather-dashboard/raw/main/assets/IMAGES/weather-dashboard-gif.gif",
         "githubLink": "https://github.com/luccaloopz/weather-dashboard",
         "deployedLink": "https://luccaloopz.github.io/weather-dashboard/"
     },
