@@ -4,8 +4,21 @@ import { FloatingLabel, Form, Button, Card } from 'react-bootstrap';
 export default function Contact() {
   const [message, setMessage] = useState('');
 
+  const emailValidation = (email) => {
+    return String(email).toLowerCase().match(/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/);
+  };
+
   const handleChange = (event) => {
     const inputField = event.target.id;
+
+    if (event.target.id === 'Email') {
+      const emailValue = event.target.value;
+      const isValid = emailValidation(emailValue); 
+
+      if(!isValid) {
+        setMessage(`Email is invalid`);
+      };
+    };
 
     if (event.target.value === '') {
       setMessage(`${inputField} field must be included`)
