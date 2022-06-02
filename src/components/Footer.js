@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaStackOverflow } from 'react-icons/fa';
 
 export default function Footer() {
     return (
-        <Navbar fixed="bottom" bg="light">
+        <Navbar fixed="bottom" style={{backgroundColor: "#C2DED1" }}>
             <Container>
                 <Navbar.Brand>My Socials</Navbar.Brand>
                 <Navbar.Toggle />

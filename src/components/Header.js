@@ -3,7 +3,7 @@ import { Navbar, Container, Nav } from 'react-bootstrap';
  
 export default function Header({ currentPage, handlePageChange }) {
     return (
-        <Navbar bg="light" expand="lg">
+        <Navbar expand="lg" style={{backgroundColor: "#C2DED1" }}>
             <Container>
                 <Navbar.Brand>Lucca Martins</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />

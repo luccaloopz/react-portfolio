@@ -5,7 +5,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="react-portfolio">
+    <div className="react-portfolio"  style={{backgroundColor: "#ECE5C7", minHeight: '100vh', height: '100%'}}>
       <Navigation />
       <Footer />
     </div>

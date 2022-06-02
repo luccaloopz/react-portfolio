@@ -27,7 +27,7 @@ export default function Contact() {
   };
 
   return (
-      <Card hasValidation style={{display: 'flex', justifyContent: 'center', flexDirection: 'column', marginLeft: '25%', marginRight: '25%', marginTop: '5%', padding: '10px'}} border="dark" bg='light'>
+      <Card hasValidation style={{display: 'flex', justifyContent: 'center', flexDirection: 'column', marginLeft: '25%', marginRight: '25%', marginTop: '5%', padding: '10px', backgroundColor: '#C2DED1'}} border="dark">
         <Card.Title className="mb-3">Contact Me</Card.Title>
         <FloatingLabel label="Name" className="mb-3">
           <Form.Control id='Name' type="name" placeholder="John Doe" onBlur={handleChange} required />
