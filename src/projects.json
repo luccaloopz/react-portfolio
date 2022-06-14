@@ -10,7 +10,7 @@
     {
         "id": "2",
         "title": "Midnight Cat Cafe",
-        "text": "An cat cafe's online website where you can view the menu, shop for merchandise, and signup for events",
+        "text": "A cat cafe's online website where users can view the menu, shop for merchandise, and sign up for live events",
         "image": "https://user-images.githubusercontent.com/101283174/173273098-5d8d1415-045b-44c4-902e-763b726f6113.gif",
         "githubLink": "https://github.com/luccaloopz/midnight-cat-cafe",
         "deployedLink": "https://midnight-cat-cafe.herokuapp.com/"
