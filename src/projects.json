@@ -9,6 +9,14 @@
     },
     {
         "id": "2",
+        "title": "Midnight Cat Cafe",
+        "text": "An cat cafe's online website where you can view the menu, shop for merchandise, and signup for events",
+        "image": "https://user-images.githubusercontent.com/101283174/173273098-5d8d1415-045b-44c4-902e-763b726f6113.gif",
+        "githubLink": "https://github.com/luccaloopz/midnight-cat-cafe",
+        "deployedLink": "https://midnight-cat-cafe.herokuapp.com/"
+    },
+    {
+        "id": "3",
         "title": "Tech Blog",
         "text": "A tech blog site allowing users to publish posts for all viewers to see",
         "image": "https://github.com/luccaloopz/tech-blog/raw/main/assets/home-page.PNG",
@@ -16,7 +24,7 @@
         "deployedLink": "https://radiant-island-73919.herokuapp.com/"
     },
     {
-        "id": "3",
+        "id": "4",
         "title": "Weather Dashboard",
         "text": "Retrieve weather data for any city",
         "image": "https://github.com/luccaloopz/weather-dashboard/raw/main/assets/IMAGES/weather-dashboard-gif.gif",
@@ -24,7 +32,7 @@
         "deployedLink": "https://luccaloopz.github.io/weather-dashboard/"
     },
     {
-        "id": "4",
+        "id": "5",
         "title": "Code Quiz",
         "text": "Test your coding skills on this timed quiz!",
         "image": "https://github.com/luccaloopz/Code-Quiz/raw/main/assets/IMAGES/application.PNG",
@@ -32,19 +40,11 @@
         "deployedLink": "https://luccaloopz.github.io/Code-Quiz/"
     },
     {
-        "id": "5",
+        "id": "6",
         "title": "Note Taker",
         "text": "A digital and intuitive note-taking application",
         "image": "https://github.com/luccaloopz/note-taker/raw/main/Assets/notes-page.PNG",
         "githubLink": "https://github.com/luccaloopz/note-taker",
         "deployedLink": "https://floating-ridge-18223.herokuapp.com/"
-    },
-    {
-        "id": "6",
-        "title": "Work Day Scheduler",
-        "text": "A daily planner to write down your to-do's throughout the day",
-        "image": "https://github.com/luccaloopz/Work-Day-Scheduler/raw/main/assets/Images/application.PNG",
-        "githubLink": "https://github.com/luccaloopz/Work-Day-Scheduler",
-        "deployedLink": "https://luccaloopz.github.io/Work-Day-Scheduler/"
     }
 ]
